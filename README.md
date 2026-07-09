@@ -95,23 +95,23 @@ The trained model was saved using Pickle and deployed with Streamlit.
 
 ### Customer Churn Distribution
 
-*(Add screenshot here)*
+![Customer Churn Distribution](screenshots/dashboard.png)
 
 ### Correlation Heatmap
 
-*(Add screenshot here)*
+![Heatmap](screenshots/heatmap.png)
 
 ### Model Comparison
 
-*(Add screenshot here)*
-
-### Feature Importance
-
-*(Add screenshot here)*
+![Model Comparison](screenshots/model_comparison.png)
 
 ### Streamlit Application
 
-*(Add screenshot here)*
+![Streamlit Home](screenshots/app_home.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png)
 
 ---
 
