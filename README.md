@@ -1,5 +1,9 @@
 # Customer Churn Prediction using Machine Learning
 
+## Live Demo
+
+https://customer-churn-prediction-ab.streamlit.app
+
 ## Overview
 
 This project predicts whether a telecom customer is likely to churn based on customer demographics, account information, and subscribed services.
@@ -120,7 +124,7 @@ The trained model was saved using Pickle and deployed with Streamlit.
 ### Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Jannatdua/Customer-Churn-Prediction.git
 ```
 
 ### Install Dependencies
